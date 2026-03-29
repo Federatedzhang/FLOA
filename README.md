@@ -9,7 +9,7 @@ You can find the paper once it is published.
 
 ## Usage
 
-You can easily run the code by executing [train.py](train.py).
+You can easily run the code by executing [train.py](train.py), which provides a simulation environment for Gaussian attacks.
 
 ### Environment
 
